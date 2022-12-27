@@ -1,0 +1,207 @@
+html{
+  font-family: 'Inter', sans-serif;
+}
+body{
+  background-color: #F3F5FC;
+}
+.header{
+  width: 100%;
+  height: 97px;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+}
+
+/* ******** main ******** */
+main{
+  padding: 15px;
+}
+.input-text{
+  width: 100%;
+  height: 35vh;
+  margin-bottom: 20px;
+}
+.text-area{
+  background-color: inherit;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  border: none;
+  font-size: 1.2rem;
+  resize: none;
+}
+.text-area::placeholder{
+  text-align: center;
+}
+.text-area:focus{
+  outline: none;
+}
+.span {
+  color: #495057;
+  opacity: 0.8;
+  font-family: "Inter";
+  flex: none;
+  width: 205px;
+  height: 18px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 8px;
+
+  width: 229px;
+  height: 18px;
+  left: 240px;
+  top: 851px;
+}
+
+/* Buttons */
+.btn-container{
+  width: 100%;
+}
+.buttons{
+  width: 100%;
+}
+.buttons button{
+  width: inherit;
+  height: 50px;
+  margin: 8px 0 15px 0;
+  font-size: 16px;
+  background-color: #0A3871;
+  border: thin solid #0A3871;
+  color: white;
+  border-radius: 24px;
+  cursor: pointer;
+}
+.buttons button:last-child{
+  background-color: inherit;
+  color: #0A3871;
+}
+
+/* Output text */
+
+.output-text{
+  width: 100%;
+  height: auto;
+  background-color: white;
+  padding: 32px;
+  margin-top: 15px;
+  text-align: center;
+  box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+  border-radius: 32px;
+}
+.output-text h2{
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.results{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.results button{
+  width: 100%;
+  height: 67px;
+  background-color: white;
+  border: thin solid #0A3871;
+  margin-top: 15px;
+  border-radius: 24px;
+  cursor: pointer;
+}
+/* ******* Tablet ******* */
+@media screen and (min-width: 600px) {
+  main,
+  .header{
+    padding: 35px 45px 45px 45px;
+  }
+  .header div{
+    margin-top: 35px;
+  }
+  .header img{
+    width: 50px;
+  }
+  .input-text{
+    height: 45vh;
+    margin-top: 60px;
+  }
+  .text-area{
+    font-size: 1.7rem;
+  }
+  .btn-container{
+    display: flex;
+    justify-content: center;
+  }
+  .buttons button{
+    width: 50%;
+    height: 80px;
+  }
+  .buttons button:last-child{
+    margin-left: 20px;
+  }
+  .output-text p{
+    margin-top: 50px;
+  }
+}
+
+/* ****** Desktop ******** */
+@media screen and (min-width: 1025px) {
+  .header div{
+    margin-top: 20px;
+  }
+  .output-text{
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    width: 20vw;
+    height: 90vh;
+    display: flex;
+    padding: 25px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+  }
+  .btn-container,
+  .input-text{
+    width: 74%;
+  }
+  .input-text{
+    margin-top: 30px;
+  }
+  .text-area::placeholder{
+    text-align: start;
+  }
+  .munieco-container{
+    
+    width: 100%;
+  }
+  .munieco-container img{
+    width: inherit;
+  }
+  
+}
+
+/*              Footer          */
+.footer {
+  margin-top: 1.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  color: #0a3871;
+}
+
+.footer .corazon {
+  color: red;
+  font-weight: bold;
+}
+
+.footer span {
+  font-weight: bold;
+}

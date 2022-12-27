@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="og:type" content="webApp" />
+    <meta property="og:title" name="twitter:title" content="Encriptador" />
+    <meta property="og:description" name="twitter:description" content="Encriptado y desencriptado de textos" />
+    <meta property="og:image" name="twitter:image"
+        content="https://miktl.github.io/Encriptador/assets/encriptador-img.jpg" />
+    <meta property="og:url" name="twitter:url" content="https://miktl.github.io/Encriptador/" />
+    <title>Encriptador de Texto</title>
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="css.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+    <header class="header">
+        <div>
+            <img src="icon.svg" alt="logo" />
+        </div>
+    </header>
+
+    <main>
+        <section class="input-text">
+            <textarea name="text" class="text-area" placeholder="Ingrese el texto aquí" id="input-text"></textarea>
+        </section>
+
+        <section class="buttons">
+            <p>
+                <span class="span"><img src="alert.svg" alt="icono aviso" srcset="" />
+                    Solo letras minúsculas y sin acentos
+                </span>
+            </p>
+            <div class="btn-container">
+                <button id="encriptar">Encriptar</button>
+                <button id="desencriptar">Desencriptar</button>
+            </div>
+        </section>
+
+        <section class="output-text">
+            <div class="info-output">
+                <div class="munieco-container" id="cont-img-munieco"></div>
+                <h2>Ningun mensaje fue encontrado</h2>
+                <p>Ingresa el texto que desea encriptar o desencriptar</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <p>
+            Elaborado por por <span>David D. Mendoza </span>| &copy; 2022 |
+            <span class="corazon"> ❤</span>
+        </p>
+    </footer>
+
+    <script src="procesos.js"></script>
+</body>
+
+</html>
