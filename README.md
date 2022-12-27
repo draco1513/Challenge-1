@@ -11,7 +11,7 @@
 <br>
 
 ## Descripcion del Proyecto:
-Proyecto dado por Alura para el programa ONE
+Proyecto dado por Alura para el programa ONE <br>
 Este es el primer proyecto, en el cual le daremos vida a un **Encriptador de Texto**, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
 
