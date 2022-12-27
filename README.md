@@ -2,8 +2,8 @@
 
 <br>
 
-   ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-   
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
    <br>
    <br>
    <h4 align="center">
@@ -21,7 +21,13 @@ La letra "o" es convertida para "ober"
 La letra "u" es convertida para "ufat"
 
 Requisitos:
+
 - Debe funcionar solo con letras minúsculas
 - No deben ser utilizados letras con acentos ni caracteres especiales
 - Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
-<br>
+
+
+## Autor
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>David Mendoza</sub>](https://github.com/draco1513) |  
+| :---: | :---: | :---: |
