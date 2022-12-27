@@ -6,9 +6,9 @@
 
    <br>
    <br>
-   <h4 align="center">
+   <h3 align="center">
    :construction: Proyecto en construcción :construction:
-   </h4>
+   </h3>
 
 ## :hammer:Funcionalidades del proyecto
 <br>
@@ -23,7 +23,7 @@ La letra "a" es convertida para "ai"
 La letra "o" es convertida para "ober"
 La letra "u" es convertida para "ufat"
 
-Requisitos:
+##Requisitos:
 
 - Debe funcionar solo con letras minúsculas
 - No deben ser utilizados letras con acentos ni caracteres especiales
@@ -33,4 +33,3 @@ Requisitos:
 ## Autor
 
 [<img src="https://avatars.githubusercontent.com/u/51796955?s=400&u=0a0151d51fabe4b3c6aae0f1d7ab1ac3293080fd&v=4" width=115><br><sub>David Mendoza</sub>](https://github.com/draco1513)  
-| :---: | :---: | :---: |
