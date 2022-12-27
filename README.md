@@ -1,23 +1,24 @@
-<h1 align="center"> Challenge-1 </h1>
+<h1 align="center"> CHALLENGE-1 </h1>
 
-<br>
+
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-   <br>
-   <br>
+
    <h3 align="center">
    :construction: Proyecto en construcción :construction:
    </h3>
 
 <br>
 ## Descripcion del Proyecto:
-Proyecto dado por Alura para el programa ONE  
+Proyecto dado por Alura para el programa ONE
+Este es el primer proyecto, en el cual le daremos vida a un **Encriptador de Texto**, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
+
 
 
 ## :hammer:Funcionalidades del proyecto
 <br>
 
-- `Funcionalidad 1`:
+- `Funcionalidad `:
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
@@ -27,11 +28,21 @@ La letra "a" es convertida para "ai"
 La letra "o" es convertida para "ober"
 La letra "u" es convertida para "ufat"
 
-##Requisitos:
+###Requisitos:
 
 - Debe funcionar solo con letras minúsculas
 - No deben ser utilizados letras con acentos ni caracteres especiales
 - Debe ser posible convertir una palabra para la versión encriptada también devolver una palabra encriptada para su versión original.
+
+La página debe tener campos para
+inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
+El resultado debe ser mostrado en la pantalla.
+Extras:
+- Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+
+## Tecnologias :
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)   ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
 ## Autor
