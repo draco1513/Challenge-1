@@ -3,12 +3,16 @@
 <br>
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
-
    <br>
    <br>
    <h3 align="center">
    :construction: Proyecto en construcción :construction:
    </h3>
+
+<br>
+##Descripcion del Proyecto:
+Proyecto dado por Alura para el programa ONE  
+
 
 ## :hammer:Funcionalidades del proyecto
 <br>
