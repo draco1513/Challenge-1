@@ -10,7 +10,7 @@
    </h3>
 
 <br>
-##Descripcion del Proyecto:
+## Descripcion del Proyecto:
 Proyecto dado por Alura para el programa ONE  
 
 
