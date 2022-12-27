@@ -4,9 +4,9 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
-   < p align="center">
+   < h2 align="center">
    :construction: Proyecto en construcción :construction:
-   </p>
+   </h2>
 
 <br>
 ## Descripcion del Proyecto:
