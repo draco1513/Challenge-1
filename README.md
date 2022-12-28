@@ -23,11 +23,11 @@ Este es el primer proyecto, en el cual le daremos vida a un **Encriptador de Tex
 
 Las "llaves" de encriptación que utilizaremos son las siguientes:
 
-La letra "e" es convertida para "enter"
-La letra "i" es convertida para "imes"
-La letra "a" es convertida para "ai"
-La letra "o" es convertida para "ober"
-La letra "u" es convertida para "ufat"
+- La letra "e" es convertida para "enter"
+- La letra "i" es convertida para "imes"
+- La letra "a" es convertida para "ai"
+- La letra "o" es convertida para "ober"
+- La letra "u" es convertida para "ufat"
 
 ### Requisitos:
 
@@ -49,6 +49,7 @@ Extras:
 ## Autor
 
 [<img src="https://avatars.githubusercontent.com/u/51796955?s=400&u=0a0151d51fabe4b3c6aae0f1d7ab1ac3293080fd&v=4" width=115><br><sub>David Mendoza</sub>](https://github.com/draco1513)  
+
 
 
 ## Imagenes 
